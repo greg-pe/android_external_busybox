@@ -9,6 +9,7 @@ It says that any of the standard utilities may be implemented
 as a regular shell built-in. It gives a list of utilities which
 are usually implemented that way (and some of them can only
 be implemented as built-ins, like "alias"):
+test
 
 alias
 bg
